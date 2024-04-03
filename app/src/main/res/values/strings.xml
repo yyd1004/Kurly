@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kurly</string>
+
+    <string name="price_won">%s원</string>
+</resources>
